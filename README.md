@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Daniel Sanchez, I am an 18-year-old Front-End and Web Developer. I am based in São Paulo, Brazil. I have a 5 year experience with Photoshop (yes, I´ve being using photoshop since I was 13...) and currently I'm working as a Social Media Manager and Front-End developer</p>
+<p align="left">My name is Daniel Sanchez, I am an 19-year-old Front-End and Web Developer. I am based in São Paulo, Brazil. And currently I'm working as a Social Media Manager and Front-End developer</p>
 
 ###
 
