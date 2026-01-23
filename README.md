@@ -1,19 +1,13 @@
 <div align="center">
-  <div>
     <a href="https://www.linkedin.com/in/danielsanchez313" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
-  </div>
-  <div>
     <a href="www.instagram.com/_dannnh" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
     </a>
-  </div>
-  <div>
     <a href="https://github.com/dpsanz/GuardioesDaAmazonia" target="_blank">
       <img src="https://img.shields.io/badge/Projeto%20ONG%20-DC143C?style=for-the-badge" height="25" alt="Guardiões da Amazônia"  />
     </a>
-  </div>
 </div>
 
 ###
