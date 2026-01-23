@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://github.com/dpsanz/GuardioesDaAmazonia" target="_blank">
-    <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge" height="25" alt="Guardiões da Amazônia"  />
+    <img src="https://img.shields.io/badge/%27Guardiões%20da%20Amazônia%27%20style-20B2AA?style=for-the-badge" height="25" alt="Guardiões da Amazônia"  />
   </a>
 </div>
 
