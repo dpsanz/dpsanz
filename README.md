@@ -1,4 +1,8 @@
----
+<div align="center">
+  <img src="./assets/banner.png" width="100%" />
+</div>
+
+<br>
 
 <h1 align="center">Daniel Sanchez</h1>
 <h3 align="center">Sales Process Automation & Front-End Developer</h3>
@@ -10,9 +14,10 @@
 I am a developer focused on **sales process automation and front-end web development**, building scalable digital solutions integrated with **CRM systems, lead pipelines, and AI-driven automation tools**.
 
 Currently working on:
--  CRM integrations and sales automation workflows  
--  AI-powered chatbots and lead management systems  
--  Modern web applications using React, Next.js and TypeScript  
+
+- CRM integrations and sales automation workflows  
+- AI-powered chatbots and lead management systems  
+- Modern web applications using React, Next.js and TypeScript  
 
 Fluent in English (C1) with international experience in Canada 🇨🇦.
 
@@ -60,8 +65,7 @@ Fluent in English (C1) with international experience in Canada 🇨🇦.
 </td>
 </tr>
 </table>
-
---
+---
 
 ## 🌎 Contact
 
