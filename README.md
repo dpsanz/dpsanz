@@ -3,10 +3,6 @@
 </div>
 
 <br>
-
-<h1 align="center">Daniel Sanchez</h1>
-<h3 align="center">Sales Process Automation & Front-End Developer</h3>
-
 ---
 
 ## 👨‍💻 About Me
