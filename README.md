@@ -37,7 +37,7 @@ Fluent in English (C1) with international experience in Canada 🇨🇦.
 
 <td valign="top" width="33%">
 
-### Automation & Integrations
+### Automation
 - CRM Systems  
 - Lead Routing & Pipelines  
 - REST APIs  
