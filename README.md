@@ -43,7 +43,7 @@ Fluent in English (C1) with international experience in Canada 🇨🇦.
 - REST APIs  
 - Webhooks  
 - AI Integrations  
-- Business Process Automation  
+- BPA
 
 </td>
 
