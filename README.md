@@ -60,6 +60,7 @@ Fluent in English (C1) with international experience in Canada 🇨🇦.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🌎 Contact
