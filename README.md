@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/danielsanchez313" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DC143C&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
-
 ---
 
 <h1 align="center">Daniel Sanchez</h1>
@@ -16,9 +10,9 @@
 I am a developer focused on **sales process automation and front-end web development**, building scalable digital solutions integrated with **CRM systems, lead pipelines, and AI-driven automation tools**.
 
 Currently working on:
-- 🔹 CRM integrations and sales automation workflows  
-- 🔹 AI-powered chatbots and lead management systems  
-- 🔹 Modern web applications using React, Next.js and TypeScript  
+-  CRM integrations and sales automation workflows  
+-  AI-powered chatbots and lead management systems  
+-  Modern web applications using React, Next.js and TypeScript  
 
 Fluent in English (C1) with international experience in Canada 🇨🇦.
 
