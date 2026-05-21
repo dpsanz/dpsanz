@@ -48,7 +48,10 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 ## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/bar-chart.svg" width="18" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpsanz&show_icons=true&hide_border=true&bg_color=0f0f13&title_color=f87880&icon_color=f04f59&text_color=e8e8f0&border_radius=12&cache_seconds=1800" />
+
+![Followers](https://img.shields.io/github/followers/dpsanz?style=for-the-badge&logo=github&logoColor=f04f59&labelColor=17171d&color=0f0f13)
+![Stars](https://img.shields.io/github/stars/dpsanz?style=for-the-badge&logo=github&logoColor=f04f59&labelColor=17171d&color=0f0f13)
+
 </div>
 
 ---
