@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/banner.png" width="100%" />
+</div>
+
 <br>
 
 <div align="center">
@@ -12,7 +16,7 @@
 
 IT intern at **Banco Daycoval S.A.** (Cards area) — process mapping, automation scripts, and AI-assisted data analysis.  
 Studying **Sistemas de Informação** at **FIAP**, São Paulo <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" />.  
-Fluent in English **(C1)** · International experience in Canada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="14" /> · Dual citizenship <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" /><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="14" />
+Fluent in English **(C1)** · International experience in Canada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="14" /> · Dual citizenship <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" /><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f9.svg" width="14" />
 
 **Currently building:**
 - CRM integrations and sales automation workflows
@@ -41,16 +45,6 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/bar-chart.svg" width="18" /> GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/dpsanz?style=for-the-badge&logo=github&logoColor=f04f59&labelColor=17171d&color=0f0f13)
-![Stars](https://img.shields.io/github/stars/dpsanz?style=for-the-badge&logo=github&logoColor=f04f59&labelColor=17171d&color=0f0f13)
-
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/mail.svg" width="18" /> Contact
 
