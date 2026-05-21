@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="36" viewBox="0 0 520 36">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&amp;display=swap');
+    text {
+      font-family: 'Source Code Pro', 'Courier New', monospace;
+      font-size: 15px;
+      font-weight: 600;
+      fill: #f04f59;
+      letter-spacing: 0.04em;
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    Full-Stack Dev · CRM Automation · AI-Powered Solutions
+  </text>
+</svg>
