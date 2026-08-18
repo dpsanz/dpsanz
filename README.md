@@ -1,17 +1,14 @@
 <br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/title.svg" alt="Full-Stack Dev · CRM Automation · AI-Powered Solutions" />
+  <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/banner.png" alt="Full-Stack Dev · CRM Automation · AI-Powered Solutions" />
 </div>
-
 <br>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/user.svg" width="18" /> About Me
 
-IT intern at **Banco Daycoval S.A.** (Cards area) — process mapping, automation scripts, and AI-assisted data analysis.  
-Studying **Sistemas de Informação** at **FIAP**, São Paulo <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" />.  
+Studying **Sistemas de Informação** at **FIAP**, São Paulo <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" />.
 Fluent in English **(C1)** · International experience in Canada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="14" /> · Dual citizenship <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" /><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f9.svg" width="14" />
 
 **Currently building:**
@@ -23,24 +20,13 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 
 ## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/wrench.svg" width="18" /> Tech Stack
 
-<div align="center">
+**Front-End:** React · Next.js · TypeScript · JavaScript · Angular · Tailwind · HTML · CSS
 
-**Front-End**
+**Back-End & Tools:** Python · Java · .NET · C++ · Git · GitHub · PowerShell · MySQL
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,tailwind,html,css&theme=dark&perline=8" />
-
-**Back-End & Tools**
-
-<img src="https://skillicons.dev/icons?i=python,java,dotnet,cpp,git,github,powershell,mysql&theme=dark&perline=8" />
-
-**Automation & Integrations**
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,linux,figma&theme=dark&perline=8" />
-
-</div>
+**Automation & Integrations:** Postman · VS Code · Linux · Figma
 
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/mail.svg" width="18" /> Contact
 
