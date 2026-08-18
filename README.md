@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/banner.png" alt="Full-Stack Dev · CRM Automation · AI-Powered Solutions" />
+  <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/banner.png" alt="Full-Stack Dev · CRM Automation · AI-Powered Solutions" />
 </div>
 <br>
 
@@ -25,6 +25,16 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 **Back-End & Tools:** Python · Java · .NET · C++ · Git · GitHub · PowerShell · MySQL
 
 **Automation & Integrations:** Postman · VS Code · Linux · Figma
+
+---
+
+## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/wrench.svg" width="18" /> Projects
+
+<div align="center">
+
+[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys.png)](https://github.com/dpsanz/ef-sys)
+
+</div>
 
 ---
 
