@@ -32,7 +32,7 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 
 <div align="center">
 
-[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys.png)](https://github.com/dpsanz/ef-sys)
+[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys1.png)](https://github.com/dpsanz/ef-sys)
 
 </div>
 
