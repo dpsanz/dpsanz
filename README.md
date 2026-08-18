@@ -6,19 +6,16 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/user.svg" width="18" /> About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%233fb950" width="18" /> About Me
 
-Studying **Sistemas de Informação** at **FIAP**, São Paulo <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" />.
-Fluent in English **(C1)** · International experience in Canada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="14" /> · Dual citizenship <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg" width="14" /><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f9.svg" width="14" />
-
-**Currently building:**
-- CRM integrations and sales automation workflows
-- AI-powered chatbots and lead management systems
-- Modern web apps with React, Next.js and TypeScript
+Studying **Sistemas de Informação** at **FIAP**, São Paulo
+Fluent in English **(C1)**
+International experience in Canada
+Dual citizenship
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/wrench.svg" width="18" /> Tech Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%233fb950" width="18" /> Tech Stack
 
 **Front-End:** React · Next.js · TypeScript · JavaScript · Angular · Tailwind · HTML · CSS
 
@@ -28,17 +25,17 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/wrench.svg" width="18" /> Projects
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%233fb950" width="18" /> Projects
 
 <div align="center">
 
-[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys1.png)](https://github.com/dpsanz/ef-sys)
+[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys.png)](https://github.com/dpsanz/ef-sys)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/icons/mail.svg" width="18" /> Contact
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%233fb950" width="18" /> Contact
 
 <div align="center">
 
@@ -47,6 +44,13 @@ Fluent in English **(C1)** · International experience in Canada <img src="https
 [![GitHub](https://img.shields.io/badge/dpsanz-0f0f13?style=for-the-badge&logo=github&logoColor=8888aa&labelColor=17171d)](https://github.com/dpsanz)
 
 </div>
+
+---
+
+**Currently building:**
+- CRM integrations and sales automation workflows
+- AI-powered chatbots and lead management systems
+- Modern web apps with React, Next.js and TypeScript
 
 ---
 
