@@ -43,7 +43,7 @@ Brazilian Nationality & Italian Citizenship
 <div align="center">
 
 [![Email](https://img.shields.io/badge/daniel@zends.com.br-0f0f13?style=for-the-badge&logo=gmail&logoColor=f87880&labelColor=17171d)](mailto:daniel@zends.com.br)
-[![LinkedIn](https://img.shields.io/badge/danielsanchez313-0f0f13?style=for-the-badge&logo=linkedin&logoColor=e8e8f0&labelColor=17171d)](https://linkedin.com/in/danielsanchez313)
+[![LinkedIn](https://img.shields.io/badge/danielsanchez313-0f0f13?style=for-the-badge&logo=linkedin&logoColor=f87880&labelColor=17171d)](https://linkedin.com/in/danielsanchez313)
 [![GitHub](https://img.shields.io/badge/dpsanz-0f0f13?style=for-the-badge&logo=github&logoColor=8888aa&labelColor=17171d)](https://github.com/dpsanz)
 
 </div>
