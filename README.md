@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/banner.png" alt="Full-Stack Dev · CRM Automation · AI-Powered Solutions" />
 </div>
 <br>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=17171d&label=profile+views&labelColor=17171d" />
+</div>
 ---
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%233fb950" width="18" /> About Me
@@ -42,15 +44,10 @@ Brazilian Nationality & Italian Citizenship
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0f0f13?style=for-the-badge&logo=gmail&logoColor=f87880&labelColor=17171d)](mailto:daniel@zends.com.br)
+**Email:** dpsanz6@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f13?style=for-the-badge&logo=linkedin&logoColor=f87880&labelColor=17171d)](https://linkedin.com/in/danielsanchez313)
+**LinkedIn** <link to=https://www.linkedin.com/in/danielsanchez313/>LinkedIn<link>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f13?style=for-the-badge&logo=github&logoColor=8888aa&labelColor=17171d)](https://github.com/dpsanz)
+**Phone:** +55 (11) 97386-1548
 
-</div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=17171d&label=profile+views&labelColor=17171d" />
 </div>
