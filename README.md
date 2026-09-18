@@ -52,5 +52,5 @@ Brazilian Nationality & Italian Citizenship
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=233fb950&label=profile+views&labelColor=17171d" />
+  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=17171d&label=profile+views&labelColor=17171d" />
 </div>
