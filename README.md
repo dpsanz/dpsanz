@@ -41,7 +41,7 @@ Brazilian Nationality & Italian Citizenship
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%233fb950" width="18" /> Contact
 
-<div align="center">
+<div align="left">
 
 **Email:** dpsanz6@gmail.com
 
