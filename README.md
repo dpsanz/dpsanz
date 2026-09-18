@@ -14,7 +14,7 @@ Fluent in English **(C1)**
 
 International experience in Canada
 
-Dual citizenship
+Brazilian Nationality & Italian Citizenship
 
 ---
 
