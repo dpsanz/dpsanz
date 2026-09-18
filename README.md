@@ -50,15 +50,7 @@ Brazilian Nationality & Italian Citizenship
 
 </div>
 
----
-
-**Currently building:**
-- CRM integrations and sales automation workflows
-- AI-powered chatbots and lead management systems
-- Modern web apps with React, Next.js and TypeScript
-
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=f04f59&label=profile+views&labelColor=17171d" />
+  <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=233fb950&label=profile+views&labelColor=17171d" />
 </div>
