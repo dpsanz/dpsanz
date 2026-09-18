@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=17171d&label=profile+views&labelColor=17171d" />
 </div>
----
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%233fb950" width="18" /> About Me
 
@@ -45,8 +44,6 @@ Brazilian Nationality & Italian Citizenship
 <div align="center">
 
 **Email:** dpsanz6@gmail.com
-
-**LinkedIn** <link to=https://www.linkedin.com/in/danielsanchez313/>LinkedIn<link>
 
 **Phone:** +55 (11) 97386-1548
 
