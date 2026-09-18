@@ -9,8 +9,11 @@
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%233fb950" width="18" /> About Me
 
 Studying **Sistemas de Informação** at **FIAP**, São Paulo
+
 Fluent in English **(C1)**
+
 International experience in Canada
+
 Dual citizenship
 
 ---
