@@ -7,7 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=dpsanz&style=flat-square&color=17171d&label=profile+views&labelColor=17171d" />
 </div>
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%233fb950" width="18" /> About Me
+## About Me
+
+Currently working at **Rentbrella**
 
 Studying **Sistemas de Informação** at **FIAP**, São Paulo
 
@@ -15,11 +17,11 @@ Fluent in English **(C1)**
 
 International experience in Canada
 
-Brazilian Nationality & Italian Citizenship
+Brazilian nationality & Italian citizenship
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%233fb950" width="18" /> Tech Stack
+## Tech Stack
 
 **Front-End:** React · Next.js · TypeScript · JavaScript · Angular · Tailwind · HTML · CSS
 
@@ -29,7 +31,7 @@ Brazilian Nationality & Italian Citizenship
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%233fb950" width="18" /> Projects
+## Projects
 
 <div align="center">
 
@@ -39,7 +41,7 @@ Brazilian Nationality & Italian Citizenship
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%233fb950" width="18" /> Contact
+## Contact
 
 <div align="left">
 
