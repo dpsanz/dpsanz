@@ -31,16 +31,6 @@ Brazilian nationality & Italian citizenship
 
 ---
 
-## Projects
-
-<div align="center">
-
-[![EFSYS](https://raw.githubusercontent.com/dpsanz/dpsanz/main/assets/efsys1.png)](https://github.com/dpsanz/ef-sys)
-
-</div>
-
----
-
 ## Contact
 
 <div align="left">
